@@ -29,8 +29,8 @@ npm install
 ```
 
 ## Screenshot
-![png](./client/screenshot1.jpg)
-![png](./client/screenshot2.jpg)
+![Screenshot](./client/public/screenshot1.jpg)
+![Screenshot](./client/public/screenshot2.jpg)
 
 
 ## Tests
